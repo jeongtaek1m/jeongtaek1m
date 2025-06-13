@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I’m **jeongtaek1m** 👋
+# Hi, I’m **Jeongtae Kim** 👋
 
 A passionate AI(Computer Vision) developer Student.
 
